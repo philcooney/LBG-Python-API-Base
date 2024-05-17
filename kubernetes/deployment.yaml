@@ -68,7 +68,7 @@ spec:
 
       - name: flask-container
 
-        image: gcr.io/lbg-mea-18/lbg-week3-pmc/test-image-5:latest
+        image: gcr.io/lbg-mea-18/lbg-week3-pmc:latest
 
         imagePullPolicy: Always
 
