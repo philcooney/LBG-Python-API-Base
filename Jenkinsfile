@@ -8,7 +8,7 @@ pipeline {
 
         IMAGE_NAME = 'test-image-5'
 
-        GCR_URL = 'gcr.io/lbg-mea-18'
+        GCR_URL = 'gcr.io/lbg-mea-18/lbg-week3-pmc'
 
     }
 
