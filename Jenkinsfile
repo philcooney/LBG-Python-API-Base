@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = 'k8-sa-pmc'
+        GCR_CREDENTIALS_ID = 'jenkins-gcr-pmc'
 
         IMAGE_NAME = 'lbg-week3-pmc'
 
